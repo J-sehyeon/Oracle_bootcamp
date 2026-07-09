@@ -1,0 +1,28 @@
+# .DS_Store
+.DS_Store
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.uv-cache
+3_ai
+
+
+# Data
+*.pt
+*.csv
+*.pkl
+*.ttf
+*.mp3
+lyrics/
+lecture/
+
+# password
+*/password
