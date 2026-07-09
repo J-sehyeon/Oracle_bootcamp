@@ -17,10 +17,12 @@ wheels/
 
 # Data
 *.pt
+*.pth
 *.csv
 *.pkl
 *.ttf
 *.mp3
+*.subwords
 lyrics/
 lecture/
 
