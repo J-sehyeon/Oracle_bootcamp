@@ -15,7 +15,10 @@ wheels/
 .venv
 uv.lock
 
+# data
+data
+naver_news_images
+
 # private
 .env
 .omx
-data
