@@ -22,3 +22,6 @@ naver_news_images
 # private
 .env
 .omx
+
+# etc
+graphify*
