@@ -18,10 +18,15 @@ uv.lock
 # data
 data
 naver_news_images
+*.db
 
 # private
 .env
 .omx
+*.log
+logs/
+*password*
 
 # etc
 graphify*
+*.cfg
